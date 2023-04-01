@@ -1,6 +1,8 @@
 # Rozhovor s Petrem Růžičkou o SSPŠ a o Horních Počernicích
 Petr Růžička je zástupcem ředitele pro pedagogickou činnost na Smíchovské Střední Průmyslové škole a opozičním zastupitelem v Horních Počernicích za sdružení aktivních občanu Pro Počernice, které v červenci 2021 založil.
 
+Rozhovor: https://github.com/filip2cz/rozhovor-ruzicka/raw/main/ruzicka.mp3
+
 V souboru poznámky.odp jsou otázky, co jsem si připravil na pana Ružičku. Není to součást rozhovoru a není to jakkoliv důležité k poslechu, spíše naopak. Ale v rámci otevřenosti je to public.
 
 ## Technické info k rozhovoru
