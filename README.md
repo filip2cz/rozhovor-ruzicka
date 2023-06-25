@@ -1,4 +1,4 @@
-# Rozhovor s Petrem Růžičkou o SSPŠ a o Horních Počernicích
+# Bude na SSPŠ výtah? A jak bezpečné jsou Horní Počernice? Odpovídá Petr Ružička
 Petr Růžička je zástupcem ředitele pro pedagogickou činnost na Smíchovské Střední Průmyslové škole a opozičním zastupitelem v Horních Počernicích za sdružení aktivních občanu Pro Počernice, které v červenci 2021 založil.
 
 Rozhovor: https://github.com/filip2cz/rozhovor-ruzicka/raw/main/ruzicka.mp3
